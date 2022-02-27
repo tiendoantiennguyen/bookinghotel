@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: ${jdbc:mysql://sql3.freemysqlhosting.net:3306/sql3475639}
+    username: ${sql3475639}
+    password: ${TvrRQlyLkb}

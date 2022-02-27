@@ -1,0 +1,38 @@
+use nhapmoncongnghephanmem;
+
+INSERT INTO category_room(name) VALUES ('standard');
+INSERT INTO category_room(name) VALUES ('connecting');
+INSERT INTO category_room(name) VALUES ('superior');
+
+INSERT INTO room VALUES ('200', '2', '500000', 1);
+INSERT INTO room VALUES ('201', '2', '500000', 1);
+INSERT INTO room VALUES ('202', '2', '500000', 1);
+INSERT INTO room VALUES ('203', '2', '500000', 1);
+INSERT INTO room VALUES ('204', '2', '500000', 1);
+INSERT INTO room VALUES ('205', '2', '500000', 1);
+INSERT INTO room VALUES ('206', '2', '500000', 1);
+INSERT INTO room VALUES ('207', '2', '500000', 1);
+INSERT INTO room VALUES ('208', '2', '500000', 1);
+INSERT INTO room VALUES ('209', '2', '500000', 1);
+
+INSERT INTO room VALUES ('300', '6', '2700000', 2);
+INSERT INTO room VALUES ('301', '6', '2700000', 2);
+INSERT INTO room VALUES ('302', '6', '2700000', 2);
+INSERT INTO room VALUES ('303', '6', '2700000', 2);
+INSERT INTO room VALUES ('304', '6', '2700000', 2);
+INSERT INTO room VALUES ('305', '6', '2700000', 2);
+INSERT INTO room VALUES ('306', '6', '2700000', 2);
+INSERT INTO room VALUES ('307', '6', '2700000', 2);
+INSERT INTO room VALUES ('308', '6', '2700000', 2);
+INSERT INTO room VALUES ('309', '6', '2700000', 2);
+
+INSERT INTO room VALUES ('400', '2', '4000000', 3);
+INSERT INTO room VALUES ('401', '2', '4000000', 3);
+INSERT INTO room VALUES ('402', '2', '4000000', 3);
+INSERT INTO room VALUES ('403', '2', '4000000', 3);
+INSERT INTO room VALUES ('404', '2', '4000000', 3);
+INSERT INTO room VALUES ('405', '2', '4000000', 3);
+INSERT INTO room VALUES ('406', '2', '4000000', 3);
+INSERT INTO room VALUES ('407', '2', '4000000', 3);
+INSERT INTO room VALUES ('408', '2', '4000000', 3);
+INSERT INTO room VALUES ('409', '2', '4000000', 3)
